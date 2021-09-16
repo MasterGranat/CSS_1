@@ -1,0 +1,54 @@
+p { text-indent: 30px;
+    line-height: 30px; /* межстрочный интервал равен 30 пикселям */
+    color:red; /* задание 1 - Сделайте все абзацы <p> красного цвета. */
+    text-align: justify; /* выравнивание по ширине */
+    font-style: italic; /* курсив */
+    font-size: 16px; /* размер 15 пикселей*/
+    font-family: arial; /* шрифт arial */
+}
+p.second {
+    text-align: center;
+    text-indent: 0px;
+}
+p.first {
+    color:green;
+    font-style: normal;
+}
+p.center {
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color:green; /* задание 2 -  Сделайте все <h1> зеленого цвета. */
+    font-weight: normal;
+    font-size: 20px;
+    font-family: Verdana;
+}
+h2 {font-size: 20px;
+    font-family: "Times New Roman";
+    width: 300px;
+    text-align: right;
+    color:blue; /* задание 3 -  Сделайте все <h2> голубого цвета. */
+    font-style: italic;
+}
+table {
+    width: 400px;
+    height: 200px;
+    vertical-align: top ;
+
+}
+h3 {
+    color:orange; /* Задание 4 -  Сделайте все <h3> оранжевого цвета. */
+    font-family: sans-serif;
+}
+th {
+    text-align: left;
+    vertical-align: middle;
+}
+td {
+    font-weight:  bold;
+    text-align: center;
+}
+th, h1, h2 {
+    font-weight: normal;
+}

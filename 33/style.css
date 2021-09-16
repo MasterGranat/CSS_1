@@ -1,0 +1,17 @@
+div.content{
+    width: 400px;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+span.red {
+    font-weight: bold;
+    color: red;
+}
+p {
+    line-height: 3px;
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 20px;
+}
