@@ -1,17 +1,24 @@
-div.content{
-    width: 400px;
+h1, h2{
+	color: blue;
+	text-align: center;
+	width: 400px;
 }
 h1{
-    text-align: center;
-    color: blue;
+    font-size: 20px;
 }
-span.red {
-    font-weight: bold;
+h2{
+    font-size: 15px;
+}
+b {
     color: red;
 }
-p {
-    line-height: 3px;
-    text-align: justify;
-    text-indent: 30px;
-    font-size: 20px;
+i{
+    color: blue;
+}
+
+p{
+    font: 16px/30px Arial; 
+    width: 400px; 
+    text-align: justify; 
+    text-indent: 40px;
 }

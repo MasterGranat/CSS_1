@@ -1,0 +1,26 @@
+h1{
+    color:red;
+    text-align: center;
+}
+b{
+    color:Red;
+    font-size: 20px;
+}
+i{
+    font-weight: bold;
+    color:blue
+}
+ol{
+    color:red;
+}
+h2{
+    color:green;
+}
+p{
+    width: 500px;
+    line-height: 30px;
+    text-align: justify;
+}
+ul{ color:rosybrown;
+    width: 500px;
+}
